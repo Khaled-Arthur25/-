@@ -20,9 +20,14 @@ LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: [DB] Dandadan - 01 (Dual Audio_10bit_BD_1080p_x265).mkv
+Video File: [DB] Dandadan - 01 (Dual Audio_10bit_BD_1080p_x265).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 341
-Active Line: 342
+Scroll Position: 89
+Active Line: 90
+Video Position: 13708
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -378,3 +383,24 @@ Dialogue: 10,0:23:51.91,0:23:53.66,Top,NTP,0,0,0,,.فهمتُ بالفعل، ه�
 Dialogue: 10,0:23:53.78,0:23:56.20,Top,NTP,0,0,0,,"الحلقة القادمة: "إنها سفينة فضائية، أليس كذلك؟
 Dialogue: 10,0:23:54.12,0:23:56.20,Main,NTP,0,0,0,,"الحلقة القادمة: "إنها سفينة فضائية، أليس كذلك؟
 Dialogue: 10,0:23:56.20,0:23:57.50,Main,NTP,0,0,0,,.كُن متناغمًا معي
+Comment: 0,0:02:12.98,0:02:17.55,Signs,On-screen Text,0,0,0,,{\pos(1810,785)}الحلقة 01: لعلمك، هكذا يبدأ الحب
+Comment: 0,0:03:18.00,0:03:20.80,Signs,On-screen Text,0,0,0,,{\pos(1220,188)}!!ولادة «قوات الدفاع الجوية والفضائية» التي ستحمي الفضاء الخارجي
+Comment: 0,0:04:14.60,0:04:18.65,Signs,On-screen Text,0,0,0,,بو
+Comment: 0,0:05:18.75,0:05:21.59,Signs,On-screen Text,0,0,0,,...قوتك وإمكاناتك الحقيقية لم تستيقظ بعد
+Comment: 0,0:06:38.08,0:06:39.83,Signs,On-screen Text,0,0,0,,مستشفى ناغي العام
+Comment: 0,0:06:42.17,0:06:43.38,Signs,On-screen Text,0,0,0,,أوكولت-كن
+Comment: 0,0:07:36.51,0:07:42.23,Signs,On-screen Text,0,0,0,,{\pos(1456,508)}ممنوع الدخول
+Comment: 0,0:07:37.23,0:07:42.23,Signs,On-screen Text,0,0,0,,{\pos(300,92)}ممنوع الدخول
+Comment: 0,0:11:34.88,0:11:35.25,Signs,On-screen Text,0,0,0,,أوكولت-كن
+Comment: 0,0:11:35.67,0:11:36.13,Signs,On-screen Text,0,0,0,,أوكولت-كن
+Comment: 0,0:15:53.01,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(1404,236)}الشجاعة
+Comment: 0,0:15:53.01,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(1072,228)}الشجاعة
+Comment: 0,0:15:53.01,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(788,232)}الشجاعة
+Comment: 0,0:15:53.01,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(482,258)}الشجاعة
+Comment: 0,0:15:53.01,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(180,266)}الشجاعة
+Comment: 0,0:15:53.22,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(1406,32)}الشجاعة
+Comment: 0,0:15:53.22,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(974,30)}الشجاعة
+Comment: 0,0:15:53.22,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(596,28)}الشجاعة
+Comment: 0,0:15:53.22,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(348,32)}الشجاعة
+Comment: 0,0:15:53.22,0:15:56.55,Signs,On-screen Text,0,0,0,,{\pos(96,34)}الشجاعة
+Comment: 0,0:23:53.62,0:23:55.62,Signs,On-screen Text,0,0,0,,"الحلقة 02: "إنها سفينة فضائية، أليس كذلك؟
