@@ -21,8 +21,6 @@ LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [DB] Dandadan S2 - 09 (Dual Audio_10bit_BD_1080p_x265).mkv
-Video File: [DB] Dandadan S2 - 09 (Dual Audio_10bit_BD_1080p_x265).mkv
 Video Zoom Percent: 0.500000
 Scroll Position: 308
 Active Line: 309
@@ -40,7 +38,7 @@ Style: Note,Hacen Tehran,75,&H00FFFFFF,&H000000FF,&H58494949,&H64101010,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:01:40.53,0:01:42.08,Main,NTP,0,0,0,,.سأمضِ بكامل قوتي
+Dialogue: 10,0:01:40.53,0:01:42.08,Main,NTP,0,0,0,,.سأنطلق بكامل قوتي
 Dialogue: 10,0:02:06.35,0:02:07.90,Main,NTP,0,0,0,,‫ممتع للغاية.
 Dialogue: 10,0:02:08.06,0:02:11.06,Main,NTP,0,0,0,,‫أنتَ ممتع للغاية.
 Dialogue: 10,0:02:12.69,0:02:15.84,Main,NTP,0,0,0,,‫المزيد! لنفعل المزيد من هذا!
